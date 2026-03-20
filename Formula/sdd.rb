@@ -1,8 +1,8 @@
 class Sdd < Formula
   desc "CLI for Story Driven Development"
   homepage "https://github.com/applica-software-guru/sdd"
-  url "https://registry.npmjs.org/@applica-software-guru/sdd/-/sdd-1.7.0.tgz"
-  sha256 "0776e0e7435bbdc161874c3ec53dd9bc49eebba5e8ff5da56fc0494f96931843"
+  url "https://registry.npmjs.org/@applica-software-guru/sdd/-/sdd-1.8.0.tgz"
+  sha256 "3764b21b65255831f1be4204543a734f837b9add8fe35801a4cf58f23dd7b5cd"
   license "MIT"
 
   depends_on "node"
